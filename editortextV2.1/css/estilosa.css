@@ -1,0 +1,52 @@
+@charset "utf-8";
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url(../imagenes/fondo.jpg);
+	background-repeat:  repeat-x;
+}
+#cuerpo {
+	width: 1050px;
+	height: 437px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#pie {
+	background-color: #333333;
+	float: left;
+	height: 170px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+#izquierdo {
+	float: left;
+	height: 430px;
+	width: 330px;
+	background-image: url(../imagenes/izquierdo%7D.jpg);
+}
+#derecho {
+	height: 370px;
+	float: left;
+	width: 670px;
+	background-image: url(../imagenes/cuerpo.jpg);
+	padding-top: 55px;
+	padding-left: 44px;
+}
+.negrita {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+
+
+#cabecera {
+	background-image: url(../imagenes/cabecera.jpg);
+	height: 450px;
+	width: 1050px;
+	margin-right: auto;
+	margin-left: auto;
+}
